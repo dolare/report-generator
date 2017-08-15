@@ -1,5 +1,5 @@
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
+//For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+//http://blog.csdn.net/s8460049/article/details/54604322 another version of explaintion
 
 // 导入check-versions.js文件，并且执行导入的函数，用来确定当前环境node和npm版本是否符合要求
 // 关于check-versions请查看我博客check-versions的相关文章
